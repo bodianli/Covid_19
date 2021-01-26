@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 import pandas as pd
-import nltk
 
 # Step 1: Merge Data / Change Upper_Case
 
